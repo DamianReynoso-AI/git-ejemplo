@@ -5,3 +5,4 @@
 4- Ultimo paso de hoy
 5-adios
 6-infoormacion agregada desde GitHub
+7- trabajando con git y GitHub
