@@ -6,3 +6,4 @@
 5-adios
 6-infoormacion agregada desde GitHub
 7- trabajando con git y GitHub
+8- trabajando con github automatizado
