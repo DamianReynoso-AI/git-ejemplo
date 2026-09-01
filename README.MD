@@ -3,3 +3,5 @@
 2- Crea el entorno virtual con el archivo requirements.txt
 3- El programa se ejecuta con python run-main.py
 4- Ultimo paso de hoy
+5-adios
+6-infoormacion agregada desde GitHub
